@@ -4,6 +4,7 @@ rocksDict/
 txt/
 test*
 done.txt
+*.txt
 *.db 
 reSimplified.txt
 # Byte-compiled / optimized / DLL files
